@@ -8,3 +8,5 @@ https://www.server-world.info/query?os=Ubuntu_18.04&p=download
 
 ubuntu18.04日本語化
 http://www.atmarkit.co.jp/ait/articles/1806/28/news043.html
+
+ほげ
