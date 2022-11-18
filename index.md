@@ -5,6 +5,8 @@
 - c#
   - [memo](./csharp/memo.md)
   - [参考になるwebページ](./csharp/参考になるwebページ.md)
+- git
+  - [gitメモ](./git/memo.md)
 - rust
   - [Rustメモ](./rust/Rustメモ.md)
   - [言語機能メモ001](./rust/言語機能メモ001.md)
