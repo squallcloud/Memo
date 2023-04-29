@@ -22,6 +22,8 @@
   - [Nodejsメモ](./javascript/Nodejsメモ.md)
 - python
   - [Pythonメモ](./python/Pythonメモ.md)
+- shortcut
+  - [README](./shortcut/README.md)
 - other
   - [ちょっとしたこと](./other/ちょっとしたこと.md)
   - [Jenkinsメモ](./other/Jenkinsメモ.md)
