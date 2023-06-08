@@ -22,6 +22,8 @@
   - [Nodejsメモ](./javascript/Nodejsメモ.md)
 - python
   - [Pythonメモ](./python/Pythonメモ.md)
+- powershell
+  - [powershellメモ](./powershell/memo.md)
 - shortcut
   - [README](./shortcut/README.md)
 - other
