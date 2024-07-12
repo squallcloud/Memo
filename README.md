@@ -6,6 +6,8 @@
 
 ### 目次
 - [README](./README.md)
+- ai
+  - [memo](./ai/memo.md)
 - cpp
   - [memo](./cpp/memo.md)
 - c#
