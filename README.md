@@ -10,29 +10,35 @@
   - [memo](./ai/memo.md)
 - cpp
   - [memo](./cpp/memo.md)
-- c#
+- csharp
   - [memo](./csharp/memo.md)
   - [参考になるwebページ](./csharp/参考になるwebページ.md)
 - git
-  - [gitメモ](./git/memo.md)
-- rust
-  - [Rustメモ](./rust/Rustメモ.md)
-  - [言語機能メモ001](./rust/言語機能メモ001.md)
-  - [参考元](./rust/参考元.md)
+  - [memo](./git/memo.md)
 - javascript
-  - [npmメモ](./javascript/npmメモ.md)
   - [Nodejsメモ](./javascript/Nodejsメモ.md)
+  - [npmメモ](./javascript/npmメモ.md)
+- powershell
+  - [memo](./powershell/memo.md)
 - python
   - [Pythonメモ](./python/Pythonメモ.md)
-- powershell
-  - [powershellメモ](./powershell/memo.md)
+- rust
+  - [Rustメモ](./rust/Rustメモ.md)
+  - [参考元](./rust/参考元.md)
+  - [言語機能メモ001](./rust/言語機能メモ001.md)
 - shortcut
+  - [explorer](./shortcut/explorer.md)
   - [README](./shortcut/README.md)
+  - [visualstudio](./shortcut/visualstudio.md)
+  - [windows](./shortcut/windows.md)
+- word
+  - [memo](./word/memo.md)
 - other
-  - [ちょっとしたこと](./other/ちょっとしたこと.md)
   - [Jenkinsメモ](./other/Jenkinsメモ.md)
   - [Linuxメモ](./other/Linuxメモ.md)
   - [MSBuildメモ](./other/MSBuildメモ.md)
+  - [VisualStudio](./other/VisualStudio.md)
+  - [ちょっとしたこと](./other/ちょっとしたこと.md)
 
 
 ### リポジトリ
